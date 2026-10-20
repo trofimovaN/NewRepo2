@@ -15,7 +15,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            double x = Calculate(2, 3)
+            double x = Calculate(2, 3)  
                      + Calculate(5, 7)
                      + Calculate(4, 6);
 
