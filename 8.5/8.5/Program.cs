@@ -22,6 +22,7 @@ namespace _8._5
                     int b = s / a;
 
                     Console.WriteLine(a + " x " + b);
-                }       }      }
+                }
+            }      }
     }
 }
