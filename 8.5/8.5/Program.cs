@@ -23,6 +23,6 @@ namespace _8._5
 
                     Console.WriteLine(a + " x " + b);
                 }
-            }      }
+            }     }
     }
 }
