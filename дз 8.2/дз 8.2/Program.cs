@@ -23,7 +23,7 @@ namespace дз_8._2
                 sum = sum + k * k;
             }
 
-            Console.WriteLine("Сумма квадратов = " + sum);
+            Console.WriteLine("Сумма квадрат = " + sum);
         }
     }
 }
